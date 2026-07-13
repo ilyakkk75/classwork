@@ -30,9 +30,9 @@
 # lt2=list(lt)
 # print(lt2)
 
-st='4 4 3 53 3 5'
-cif=0
-for i in st:
-    if i.isdigit():
-        cif+=1
-print(cif)
+# st='4 4 3 53 3 5'
+# cif=0
+# for i in st:
+#     if i.isdigit():
+#         cif+=1
+# print(cif)
